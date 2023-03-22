@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../oneBitCode"
+		},
+		{
+			"path": "../Projetos/Meus-primeiros-projetos/AulasJavaScrip"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "oneBitCode"
+	}
+}
